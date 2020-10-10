@@ -35,3 +35,4 @@ Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your p
 
 [Portfolio image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mockplus.com%2Fblog%2Fpost%2Fwireframe-example&psig=AOvVaw19dS9J5BOYIp3Be-Gim68I&ust=1602403084662000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj98efGqewCFQAAAAAdAAAAABAF)
 
+[web validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpegasus-1982.github.io%2FLuis-D-Chavarria-Web-Profile%2F)
